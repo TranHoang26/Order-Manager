@@ -1,0 +1,66 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "orderId": "ORD001",
+      "productName": "iPhone 14",
+      "purchaseDate": "2024-07-20",
+      "price": 500,
+      "quantity": 2,
+      "total": 1000
+    },
+    {
+      "id": "2",
+      "orderId": "ORD002",
+      "productName": "Samsung Galaxy S21",
+      "purchaseDate": "2024-07-22",
+      "price": 400,
+      "quantity": 1,
+      "total": 400
+    },
+    {
+      "id": "3",
+      "orderId": "ORD003",
+      "productName": "Samsung Galaxy S21",
+      "purchaseDate": "2024-07-22",
+      "price": 400,
+      "quantity": 1,
+      "total": 400
+    },
+    {
+      "id": "4",
+      "orderId": "ORD004",
+      "productName": "Samsung Galaxy S21",
+      "purchaseDate": "2024-07-22",
+      "price": 400,
+      "quantity": 1,
+      "total": 400
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "price": 500,
+      "type": "Smartphone"
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S21",
+      "price": 400,
+      "type": "Smartphone"
+    },
+    {
+      "id": "3",
+      "name": "Samsung Galaxy S24",
+      "price": 4000,
+      "type": "Smartphone"
+    },
+    {
+      "id": "4",
+      "name": "Samsung Galaxy S23",
+      "price": 4005,
+      "type": "Smartphone"
+    }
+  ]
+}
